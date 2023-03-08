@@ -24,6 +24,7 @@ runs/*
 data/*
 data/images/*
 !data/KITTI/*
+!yolov5/data/KITTI/*
 !data/*.yaml
 !data/hyps
 !data/scripts
